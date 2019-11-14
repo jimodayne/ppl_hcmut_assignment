@@ -1,6 +1,6 @@
 # PPL - HCMUT - Fall 2018
 
-This project includes 4 assignments of Principle of Programming Language coursse, which was taken in Ho Chi Minh City University of Technology
+This project includes 4 assignments of Principle of Programming Language course, which was taken in Ho Chi Minh City University of Technology
 
 #### Assignment 1: Lexer & Recognizer
 
